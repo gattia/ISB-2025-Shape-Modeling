@@ -29,6 +29,15 @@ Learn the basics of Signed Distance Functions and train your first neural implic
 ### Tutorial 2: Advanced Shape Modeling
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gattia/ISB-2025-Shape-Modeling/blob/main/2_Generative_SDF_Tutorial.ipynb)
 
+Build generative models that can represent multiple bone shapes and generate new variations:
+
+- 🔹 **Generative SDFs**: Learn one network to represent multiple bone shapes
+- 🔹 **Latent Embeddings**: Use learnable shape codes to encode bone identity  
+- 🔹 **Multi-Shape Training**: Register and normalize datasets from multiple patients
+- 🔹 **Shape Space Exploration**: Generate average bones using latent arithmetic
+- 🔹 **Generative Modeling**: Interpolate between shapes and create novel variations
+- 🔹 **Medical Applications**: Population analysis and statistical shape modeling
+
 ## 🚀 Quick Start
 
 ### Option 1: Google Colab (Recommended)
