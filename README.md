@@ -26,9 +26,8 @@ Learn the basics of Signed Distance Functions and train your first neural implic
 - 🔹 **Visualization**: See your learned SDF field and reconstructed surfaces
 - 🔹 **Surface Extraction**: Use marching cubes to get explicit mesh representations
 
-*Coming Soon:*
 ### Tutorial 2: Advanced Shape Modeling
-*Badge will be added when available*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gattia/ISB-2025-Shape-Modeling/blob/main/2_Generative_SDF_Tutorial.ipynb)
 
 ## 🚀 Quick Start
 
