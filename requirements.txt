@@ -1,0 +1,8 @@
+torch 
+torchvision 
+mskt 
+pyvista 
+itkwidgets 
+matplotlib 
+numpy 
+jupyter
