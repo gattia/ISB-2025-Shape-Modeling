@@ -129,3 +129,13 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Ready to start learning?** Click the Colab badge above and dive into Tutorial 1! 🚀 
+
+
+## 🛠️ Development Notes
+
+- **Clear Notebook Outputs Before Commit:**  
+  To keep the repository lightweight and ensure fast loading in Colab, please clear all cell outputs from the notebooks before committing changes. You can do this with:
+  ```
+  jupyter nbconvert --clear-output --inplace <notebook_name>.ipynb
+  ```
+  This helps prevent large file sizes and unnecessary output clutter in version control.
