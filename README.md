@@ -108,14 +108,6 @@ The tutorial uses real medical imaging data from tibia bone reconstructions. The
 
 *Data source: Medical imaging reconstructions processed for educational use*
 
-## 🎨 Key Features
-
-- **🔄 Interactive Learning**: Step-by-step code with detailed explanations
-- **📈 Real-time Visualization**: See your neural network learn in real-time
-- **🏥 Medical Applications**: Work with actual medical imaging data
-- **⚡ Efficient Training**: Optimized sampling strategies for fast convergence
-- **🔧 Modular Code**: Easy to modify and experiment with different approaches
-
 ## 🤝 Getting Help
 
 - **Issues**: Found a bug or have a question? [Open an issue](https://github.com/gattia/ISB-2025-Shape-Modeling/issues)
@@ -138,7 +130,7 @@ If you use these tutorials in your research or educational work, please cite:
 ```bibtex
 @misc{gatti2025isbshapemodeling,
   title={ISB-2025 Shape Modeling Tutorial: Neural Implicit Representations with SDFs},
-  author={Gatti, Anthony A.},
+  author={Gatti, Anthony A., Clouthier, A., Lee, E., Rainbow M.},
   year={2025},
   url={https://github.com/gattia/ISB-2025-Shape-Modeling}
 }
