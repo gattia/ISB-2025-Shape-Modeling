@@ -14,6 +14,19 @@ This repository contains hands-on tutorials for learning neural implicit surface
 
 ## 📚 Tutorials
 
+> **How to enable GPU in Google Colab:**
+>
+> 1. Open the Colab notebook.
+> 2. Click the arrow next to the `Connect` button (top right).
+> 3. Select **Change runtime type**.
+> 4. Under "Hardware accelerator", choose **T4 GPU**.
+> 5. Click **Save**.
+
+**Colab Notes:**
+- Libraries are installed automatically.
+- You may need to click "Restart runtime" after installation for changes to take effect.
+- After restarting, continue running the notebook as usual.
+
 ### Tutorial 1: SDF Fundamentals
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gattia/ISB-2025-Shape-Modeling/blob/main/1_SDF_Tutorial.ipynb)
 
